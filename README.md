@@ -4,8 +4,11 @@ Script para gerar um PDF com as participações de cada integrante no projeto to
 ## Configurando ambiente
 
 No terminal, navegue até sua pasta do projeto e depois crie e ative um ambiente virtual:
+
+```
 python3 -m venv venv
 source venv/bin/activate  # Para Linux/macOS
+```
 
 Instale a biblioteca beatifulsoup4:
 
